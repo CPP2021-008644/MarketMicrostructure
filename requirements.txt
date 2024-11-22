@@ -1,0 +1,9 @@
+pandas>=2.0.1
+matplotlib>=3.5.1 
+toml>=0.10.2 
+plotly>=5.13.1
+PyQt5>=5.15.9
+sqlalchemy>=2.0.1
+mat4py>=0.5.0
+tqdm>=4.65.1
+statsmodels>=0.14.0
